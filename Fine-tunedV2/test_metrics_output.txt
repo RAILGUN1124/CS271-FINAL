@@ -1,0 +1,9 @@
+ROC AUC on test set: 0.998242717320742
+PR AUC on test set: 0.998386439732097
+Test accuracy at threshold 0.5: 0.9821237623762377
+Confusion matrix on test set:
+[[298223   4777]
+ [  6056 296944]]
+TN: 298223, FP: 4777, FN: 6056, TP: 296944
+Number of incorrectly classified test samples: 10833
+TPR of test set at FPR 0.01: 0.9720561056105611

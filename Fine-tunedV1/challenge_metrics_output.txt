@@ -1,0 +1,9 @@
+ROC AUC on challenge set: 0.9614875337414978
+PR AUC on challenge set: 0.6457321088631572
+Challenge accuracy at threshold 0.5: 0.9779254158382231
+Confusion matrix on challenge set:
+[[298075   4925]
+ [  1903   4412]]
+TN: 298075, FP: 4925, FN: 1903, TP: 4412
+Number of incorrectly classified challenge samples: 6828
+TPR of challenge set at FPR 0.01: 0.6145684877276326

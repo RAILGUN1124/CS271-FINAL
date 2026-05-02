@@ -1,0 +1,9 @@
+ROC AUC on train set: 0.9999999987885514
+PR AUC on train set: 0.9999999987876623
+Training accuracy at threshold 0.5: 0.999995430312262
+Confusion matrix on train set:
+[[1312988      12]
+ [      0 1313000]]
+TN: 1312988, FP: 12, FN: 0, TP: 1313000
+Number of incorrectly classified training samples: 12
+TPR of train set at FPR 0.01: 1.0
