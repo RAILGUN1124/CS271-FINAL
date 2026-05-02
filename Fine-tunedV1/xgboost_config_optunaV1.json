@@ -1,0 +1,23 @@
+{
+  "objective": "binary:logistic",
+  "booster": "gbtree",
+  "n_estimators": 1000,
+  "learning_rate": 0.23311249539682263,
+  "max_depth": 12,
+  "max_leaves": 224,
+  "grow_policy": "depthwise",
+  "subsample": 0.6,
+  "colsample_bytree": 0.9,
+  "colsample_bynode": 0.8,
+  "min_child_weight": 1.7411743631601744,
+  "max_delta_step": 1,
+  "reg_alpha": 0.003062842356399175,
+  "reg_lambda": 0.6401822631340475,
+  "eval_metric": ["auc", "logloss", "error"],
+  "n_jobs": -1,
+  "tree_method": "hist",
+  "device": "cuda",
+  "seed": 42,
+  "verbosity": 1,
+  "scale_pos_weight": 2.0635539379374293
+}
